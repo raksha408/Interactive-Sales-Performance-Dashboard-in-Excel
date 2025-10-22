@@ -1,0 +1,34 @@
+# From Raw Data to Insights — Interactive Sales Performance Dashboard in Excel
+
+**Built with:** Excel 365 (web) · Superstore Sales Dataset (Kaggle)
+
+## Overview
+An end-to-end analytics workflow that transforms the Superstore Sales dataset into actionable insights using Excel:
+- Data ingestion & cleaning
+- Advanced formulas (XLOOKUP, SUMIFS, INDEX/MATCH)
+- PivotTables, charts, forecast with `FORECAST.LINEAR`
+- Interactive dashboard (KPI cards, slicers, forecast vs actual)
+- Macros for automation and ChatGPT-assisted formula generation
+
+## Repository structure
+See the repository root for `excel/`, `data/`, `scripts/`, `docs/`, and `media/`.
+
+## Files of interest
+- `excel/Superstore_Sales_Workbook.xlsx` — main workbook with sheets and dashboard
+- `media/demo_video.mp4` — demo showing raw → insights
+- `docs/dashboard_walkthrough.md` — how dashboard is built and formulas used
+
+## How to reproduce
+1. Download the Superstore dataset (link in `data/kaggle_instructions.md`).
+2. Open `excel/Superstore_Sales_Workbook.xlsx` in Excel 365 (web recommended).
+3. Use the `processed` CSVs in `data/processed/` to replicate the PivotTables.
+4. Optional: run `scripts/data_cleaning/clean_data.py` to reproduce the cleaning steps.
+
+## License
+This project is released under the MIT License — see `LICENSE`.
+
+## Contact
+Questions or suggestions — open an issue or PR.
+
+## Hashtags
+#DataAnalytics #ExcelDashboard #BusinessIntelligence #DataVisualization #SuperstoreDataset #AIinAnalytics
