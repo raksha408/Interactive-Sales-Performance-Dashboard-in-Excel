@@ -93,7 +93,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ## Author
 
-**Name:** Shriraksha  
+**Name:** Shriraksha Kulkarni 
 
 **Dataset Source:** [Superstore Dataset – Final (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
