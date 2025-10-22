@@ -1,26 +1,10 @@
-```markdown
-# From Raw Data to Insights — Interactive Sales Performance Dashboard in Excel
-
-GitHub only renders markdown when the file name and extension are **exactly** `README.md`.
-
----
-
-### ⚠️ 3. You Uploaded It as a Code Snippet or Inside Another File
-You must upload it as the main **README file** in your repo root folder — not inside another markdown code block or file.
-
----
-
-Here’s the **final plain markdown content** again — ready to copy-paste directly (no code fences, no extra formatting):  
-
----
-
 # From Raw Data to Insights — Interactive Sales Performance Dashboard in Excel
 
 **Built with:** Excel 365 (Web) · Superstore Sales Dataset ([Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
 
 ---
 
-## 📊 Overview
+##  Overview
 This project demonstrates an **end-to-end analytics workflow** that transforms raw sales data into actionable business insights using **Microsoft Excel 365 (Web)**. The workflow includes **data cleaning**, **analysis**, **forecasting**, and **interactive dashboard creation**.
 
 **Key Highlights:**
@@ -34,7 +18,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -46,7 +30,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 📁 Files of Interest
+##  Files of Interest
 - `excel/Superstore_Sales_Workbook.xlsx` — Main workbook with raw, cleaned, and dashboard sheets  
 - `media/demo_video.mp4` — Demo video showing raw data → insights  
 - `docs/dashboard_walkthrough.md` — Detailed explanation of dashboard logic and formulas  
@@ -54,7 +38,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 🔧 How to Reproduce
+##  How to Reproduce
 
 1. **Download Dataset**  
    - Visit [Superstore Dataset – Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
@@ -75,7 +59,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 🧮 Key Excel Formulas
+##  Key Excel Formulas
 
 | Purpose | Formula Example | Description |
 |---------|----------------|-------------|
@@ -90,7 +74,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 - Sales and profit trends visualized by **region, category, and time**  
 - Forecast models predict short-term performance  
 - KPIs: Total Sales, Profit, Average Margin, Forecast Accuracy  
@@ -98,7 +82,7 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 📝 Key Learnings
+##  Key Learnings
 - **End-to-end workflow:** Raw → Cleaning → Analysis → Forecasting → Dashboard  
 - **Advanced Excel:** Use of `XLOOKUP`, `INDEX-MATCH`, `SUMIFS`, and dynamic referencing  
 - **Forecasting & Automation:** Leveraging Excel functions and macros for time-series insights  
@@ -107,23 +91,13 @@ This project demonstrates an **end-to-end analytics workflow** that transforms r
 
 ---
 
-## 👩‍💻 Author
+## Author
+
 **Name:** Shriraksha  
 
 **Dataset Source:** [Superstore Dataset – Final (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
-## 🔖 Hashtags
+## Hashtags
 #DataAnalytics #ExcelDashboard #BusinessIntelligence #DataVisualization #SuperstoreDataset #Forecasting #KPIAnalysis #Automation #ExcelForBusiness #AIinAnalytics
-
----
-
-✅ After you paste this:
-- Make sure your file name is **README.md**
-- Upload it to the **root folder** of your repository
-- Refresh the GitHub page  
-
-It will now display exactly like a **formatted project README** (headings, emojis, bold text, tables, etc.).  
-
-Would you like me to add a **header banner or badges (Excel | Kaggle | BI)** to make it visually more professional?
